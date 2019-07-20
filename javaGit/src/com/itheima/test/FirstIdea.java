@@ -8,4 +8,9 @@ public class FirstIdea {
         System.out.println(" GIT IDEA  PROJECT");
         System.out.println(" GIT IDEA  PROJECT");
     }
+
+    public void add(){
+        System.out.println("add =========== 添加");
+
+    }
 }
