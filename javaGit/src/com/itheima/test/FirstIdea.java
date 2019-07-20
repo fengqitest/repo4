@@ -11,6 +11,9 @@ public class FirstIdea {
 
     public void add(){
         System.out.println("add =========== 添加");
+        System.out.println("add =========== 添加");
+        System.out.println("add =========== 添加");
+        System.out.println("add =========== 添加");
 
     }
 }
